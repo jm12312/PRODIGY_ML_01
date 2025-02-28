@@ -36,13 +36,13 @@ Open the notebook Task1_House_Price_Prediction.ipynb using Jupyter Notebook or a
 ## Results
 The model's performance can be evaluated using the provided metrics. The initial results show the effectiveness of the Linear Regression model in predicting house prices based on the provided features.
 
-Time taken: 0.44101595878601074
-Training RMSE: 21685.078466052695
-Validation RMSE: 27323.325561014808
-Training MAE: 14645.24288250962
-Validation MAE: 18742.04216728635
-Training R²: 0.9276042962678803
-Validation R²: 0.8655327192615399
+Time taken: 0.44101595878601074  
+Training RMSE: 21685.078466052695  
+Validation RMSE: 27323.325561014808  
+Training MAE: 14645.24288250962  
+Validation MAE: 18742.04216728635  
+Training R²: 0.9276042962678803  
+Validation R²: 0.8655327192615399  
 
 ## Conclusion
 This project demonstrates the process of building a regression model to predict house prices. Future improvements can include exploring other regression techniques and performing hyperparameter tuning to enhance model performance.
